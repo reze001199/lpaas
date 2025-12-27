@@ -1,0 +1,234 @@
+body {
+  font-family: "Helvetica", "Arial", sans-serif;
+  line-height: 1.8;
+  margin: 0;
+  color: #222;
+}
+
+section {
+  padding: 20px 20px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 32px;
+  margin-bottom: 20px;
+}
+
+h2 {
+  font-size: 26px;
+  margin-bottom: 20px;
+}
+
+p {
+  font-size: 30
+
+  px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+li {
+  margin-bottom: 12px;
+}
+
+.btn {
+  display: inline-block;
+  padding: 16px 32px;
+  background: #000;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 6px;
+  margin-top: 30px;
+}
+
+.btn:hover {
+  opacity: 0.8;
+}
+
+.worries {
+  border-top: 1px solid #ddd;
+  background-color: #f7f7f7;
+  padding: 80px 20px;
+}
+
+footer {
+  text-align: center;
+  font-size: 14px;
+  color: #666;
+  padding: 20px;
+}
+.fv {
+  height: 100vh;
+  background: #f6e9e5;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.fv-inner {
+  text-align: center;
+}
+
+.fv h1 {
+  font-size: 36px;
+  margin-bottom: 16px;
+}
+
+.fv p {
+  font-size: 16px;
+  margin-bottom: 24px;
+}
+
+.btn {
+  display: inline-block;
+  padding: 12px 24px;
+  background: #c97c6d;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 30px;
+}
+.worries {
+  background: #ffffff;
+  padding: 80px 20px;
+  text-align: center;
+}
+
+
+.worries h2 {
+  font-size: 22px;
+  margin-bottom: 20px;
+}
+
+.worries ul {
+  list-style: none;
+  padding: 0;
+}
+
+.worries li {
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+.solution {
+  background: #f7f7f7;
+  padding: 80px 20px;
+  text-align: center;
+}
+
+.solution h2 {
+  font-size: 22px;
+  margin-bottom: 40px;
+}
+
+.solution-items {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.solution .item {
+  margin-bottom: 30px;
+}
+
+.solution h3 {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.solution p {
+  font-size: 15px;
+  color: #555;
+}
+
+.results {
+  padding: 80px 20px;
+  text-align: center;
+}
+
+.results h2 {
+  font-size: 22px;
+  margin-bottom: 10px;
+}
+
+.results .note {
+  font-size: 13px;
+  color: #777;
+  margin-bottom: 30px;
+}
+
+.result-box {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.result-box div {
+  width: 140px;
+  height: 180px;
+  background: #ddd;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+}
+
+.price {
+  padding: 80px 20px;
+  background: #fafafa;
+  text-align: center;
+}
+
+.price h2 {
+  font-size: 22px;
+  margin-bottom: 20px;
+}
+
+.price ul {
+  list-style: none;
+  padding: 0;
+  margin-bottom: 20px;
+}
+
+.price li {
+  font-size: 16px;
+  margin-bottom: 8px;
+}
+
+.price-note {
+  font-size: 14px;
+  color: #555;
+}
+
+.cta-last {
+  padding: 80px 20px;
+  text-align: center;
+}
+
+.cta-last h2 {
+  font-size: 22px;
+  margin-bottom: 10px;
+}
+
+.cta-last p {
+  font-size: 14px;
+  margin-bottom: 20px;
+}
+
+.btn {
+  display: block;
+  width: fit-content; /* ボタン幅を文字に合わせる */
+  margin: 30px auto 0; /* 上に余白・左右中央 */
+margin-bottom: 40px;
+
+}
+
+.big {
+  font-size: 20px !important;
+}
+index.html
+style.css
+img/
